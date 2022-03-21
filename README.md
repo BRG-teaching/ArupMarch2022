@@ -21,7 +21,7 @@ Use the recommended settings during each of the installation processes!
 To install COMPAS, we will use `conda`, the package manager of Anaconda.
 `conda` is a command line tool.
 On Mac, you can use it directly from the Terminal app.
-On Windows, please use the Anaconda Prompt instead of the default Command Prompt.
+On Windows, **please use the Anaconda Prompt** instead of the default Command Prompt.
 
 In both case, install COMPAS with the following command.
 
