@@ -43,8 +43,8 @@ COMPAS: 1.14.1
 Python: 3.9.10 (CPython)
 ```
 
-## Support
+## Join us on Slack
 
-If you have questions or need technical assitance, please join us on the Slack channel for the workshop.
+For questions and technical assistance, before, during and after the workshop...
 
 https://join.slack.com/t/arupmarch2022/shared_invite/zt-15bpawx3q-31apqIYiB4atG9YPx5_dLg
