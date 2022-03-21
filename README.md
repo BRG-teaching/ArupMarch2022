@@ -29,6 +29,23 @@ In both case, install COMPAS with the following command.
 conda create -n arup -c conda-forge python=3.9 compas --yes 
 ```
 
+To verify the installation, activate the environment and run the main COMPAS package.
+
+```bash
+conda activate arup
+python -m compas
+```
+
+If the something like the following appears, everything is installed correctly.
+
+```none
+
+Yay! COMPAS is installed correctly!
+
+COMPAS: 1.14.1
+Python: 3.9.10 (CPython)
+```
+
 ## Support
 
 If you have questions or need technical assitance, please join us on the the workshop Slack channel.
